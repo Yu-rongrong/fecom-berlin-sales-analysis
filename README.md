@@ -19,6 +19,8 @@
 - **Highest single order:** €13,664.08 (delivered)
 - **Canceled orders revenue:** €105,885.72 (only 0.7% of total revenue)
 - **Shipped orders revenue:** €177,129.34 (awaiting delivery)
+- **Top 10 best‑selling products** are mainly from **Health & Beauty** and **Computers Accessories**.  
+  The highest‑selling single product generated €67,606, and the Top 10 together contributed ~€0.5M.
 
 ## Code
 The full analysis code is available in this repository as `analysis.py`.  
