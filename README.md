@@ -21,7 +21,8 @@
 - **Shipped orders revenue:** €177,129.34 (awaiting delivery)
 
 ## Code
-The full analysis code is available in this repository as `analysis.py`.
+The full analysis code is available in this repository as `analysis.py`.  
+**Run the analysis directly in Google Colab – no setup required.**
 
 ## Author
 Yu Rongrong – [GitHub](https://github.com/Yu-rongrong)
